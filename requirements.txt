@@ -1,0 +1,17 @@
+asn1crypto==0.24.0
+cryptography==2.1.4
+idna==2.6
+kafka-python==2.0.2
+keyring==10.6.0
+keyrings.alt==3.0
+mysql-connector-python==8.0.31
+protobuf==3.19.6
+pycrypto==2.6.1
+Pygments==2.2.0
+pygobject==3.26.1
+python-apt==1.6.5+ubuntu0.7
+pyxdg==0.25
+PyYAML==3.12
+SecretStorage==2.3.1
+six==1.11.0
+unattended-upgrades==0.1
